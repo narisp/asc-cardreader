@@ -1,2 +1,2 @@
-package com.narisp.cordova.plugin.asccardreader
+package com.narisp.cordova.plugin;
 
